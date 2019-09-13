@@ -7,4 +7,5 @@ RUN apt-get update && \
 	gsl-bin \
 	libgsl0-dbg \
 	libgsl0-dev \
-	libgsl23
+	libgsl23 \
+	gdb
